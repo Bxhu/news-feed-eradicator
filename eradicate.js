@@ -137,16 +137,24 @@ var quoteList = [
 	source: "Jon Kabat-Zinn"
 }
 {
-	quote: ,
-	source: 
+	quote: "Don't go where the path may lead, go instead where there is no path...and leave a trail",
+	source: "Ralph Waldo Emerson"
 }
 {
-	quote: ,
-	source: 
+	quote: "When was the last time you did something for the first time?",
+	source: "John C. Maxwell"
 }
 {
-	quote: ,
-	source: 
+	quote: "The only guarantee for failure is to stop trying",
+	source: "John C. Maxwell"
+}
+{
+	quote: "Change is inevitable, growth is optional",
+	source: "John C. Maxwell"
+}
+{
+	quote: "Successful and unsuccessful people do not vary greatly in their abilities.  They vary in their desires to reach their potential.",
+	source: "John C. Maxwell"
 }
 ];
 
